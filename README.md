@@ -46,7 +46,7 @@ The analysis answers 8 core business questions ranging from basic data retrieval
 
 ## 👥 Connect With Me
 I am a Computer Science student passionate about Data Analytics, Business Intelligence, and Data Engineering. 
-hanzalakhaleeq456@gmail.com
 
-*   **LinkedIn:** [Your LinkedIn Profile Link]
-*   **Email:** [Your Email Address]
+
+*   **LinkedIn:** hanzala-khaleeq-374a1a255
+*   **Email:** hanzalakhaleeq456@gmail.com
